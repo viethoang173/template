@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'DVN-Poppins ExtBd';
+    src: url('DVNPoppins-ExtraBold.woff2') format('woff2'),
+        url('DVNPoppins-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DVN-Poppins';
+    src: url('DVNPoppins-Regular.woff2') format('woff2'),
+        url('DVNPoppins-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yeseva One';
+    src: url('YesevaOne-Regular.woff2') format('woff2'),
+        url('YesevaOne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: url('GillSansNova-SemiBold.woff2') format('woff2'),
+        url('GillSansNova-SemiBold.woff') format('woff'),
+        url('GillSansNova-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: url('GillSansNova-Medium.woff2') format('woff2'),
+        url('GillSansNova-Medium.woff') format('woff'),
+        url('GillSansNova-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: url('GillSansNova-Light.woff2') format('woff2'),
+        url('GillSansNova-Light.woff') format('woff'),
+        url('GillSansNova-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: url('GillSansNova-UltraBold.woff2') format('woff2'),
+        url('GillSansNova-UltraBold.woff') format('woff'),
+        url('GillSansNova-UltraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
